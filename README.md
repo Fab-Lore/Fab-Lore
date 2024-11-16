@@ -56,3 +56,21 @@ I thrive on learning new concepts and technologies, always seeking opportunities
   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 
 </span>
+
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Fab-Lore&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Fab-Lore)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Fab-Lore&theme=material-palenight)](https://github.com/Fab-Lore)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
