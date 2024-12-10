@@ -11,7 +11,6 @@ I thrive on learning new concepts and technologies, always seeking opportunities
   - javascript
   - C#
 - 👯 I’m looking forward to collaborate on projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read , 🖌️ do painting and skecthing, 🎵 listen to music reggae, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="https://www.instagram.com/fab_lored/profilecard/?igsh=MW05ajJja2JzYzR3bw==">https://www.instagram.com/fab_lored/profilecard/?igsh=MW05ajJja2JzYzR3bw==</a>
 
